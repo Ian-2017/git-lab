@@ -19,7 +19,7 @@ Answer 8:commit 396984d208337c3a94a67a20cba42b63e8932849 (HEAD -> master)
 
 Answer 9: On my github repository I now see both the answer.md and README.md files.
 
-Answer 10:
+Answer 10:The README.md file is not updated in the terminal, only on github.
 
-
+*Couldn't finish the rest, had computer trouble for a long time
 
